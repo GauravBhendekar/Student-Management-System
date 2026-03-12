@@ -144,6 +144,7 @@ void getCategoryFromChoice(int choice, char category[])
     }
 }
 
+
 void registration()
 {
     Employee ep1;
@@ -625,4 +626,5 @@ int main()
         }
     }
     return 0;
+
 }
